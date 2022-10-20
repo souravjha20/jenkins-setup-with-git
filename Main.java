@@ -4,7 +4,7 @@ class Main {
     
     System.out.println("Enter two numbers");
     int first = 20;
-    int second = 50;
+    int second = 40;
     
     System.out.println(first + " " + second);
 
